@@ -32,7 +32,7 @@ def findEncodings(images):
     return encodeList
 
 encodeListKnown = findEncodings(images)
-print("Encoding Complete ✅")
+print("Encoding Complete ")
 
 
 def markAttendance(name):
